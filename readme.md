@@ -47,7 +47,7 @@
 ### 4.2. 사용자 요청
 ![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/flow_vue.png)
 
-- **URL 정규식 체크** :pushpin: [코드 확인](https://github.com/Integerous/goQuality/blob/b587bbff4dce02e3bec4f4787151a9b6fa326319/frontend/src/components/PostInput.vue#L67)
+- **URL 정규식 체크** :pushpin: [코드 확인](https://github.com/JungHyung2/gitio.io/blob/95b4c4f06a2a5a74a00f81a3c3fcc003c994725f/index.html#L15C8-L15C26)
   - Vue.js로 렌더링된 화면단에서, 사용자가 등록을 시도한 URL의 모양새를 정규식으로 확인합니다.
   - URL의 모양새가 아닌 경우, 에러 메세지를 띄웁니다.
 
